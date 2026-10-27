@@ -101,6 +101,8 @@ void loop() {
 
 <데모>
 
+(arduino_egg_animation.gif)
+
 <설명>
 
 이 코드는 아두이노와 LCD1602의 Custom Character 기능을 활용하여 알이 깨지고 계란 후라이가 나타나는 애니메이션을 구현한 프로그램입니다.
