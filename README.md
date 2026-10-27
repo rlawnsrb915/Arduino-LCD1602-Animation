@@ -101,7 +101,7 @@ void loop() {
 
 <데모>
 
-(arduino_egg_animation.gif)
+![계란 후라이 애니메이션](arduino_egg_animation.gif)
 
 <설명>
 
